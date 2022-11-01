@@ -1,15 +1,11 @@
-.label {
+.field {
   display: block;
 }
 
-.field {
-  margin: 10px 0;
-}
-
-.fieldSet {
-  margin-bottom: 20px;
-}
-
-.field1 {
+.field-form {
   margin-bottom: 10px;
+}
+
+.fieldset {
+  margin-bottom: 20px;
 }
