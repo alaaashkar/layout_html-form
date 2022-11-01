@@ -1,1 +1,15 @@
-/* styles go here */
+.label {
+  display: block;
+}
+
+.field {
+  margin: 10px 0;
+}
+
+.fieldSet {
+  margin-bottom: 20px;
+}
+
+.field1 {
+  margin-bottom: 10px;
+}
